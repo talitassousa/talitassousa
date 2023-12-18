@@ -33,6 +33,7 @@
 #### Studying in this moment:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-F2F4F9?style=for-the-badge&logo=java&logoColor=orange&labelColor=F2F4F9)&nbsp;
 
 
 #### Databases:
